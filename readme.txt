@@ -1,8 +1,4 @@
 create a new branch
-AAAAAAAAA
-<<<<<<< HEAD
+AAAAAAAAAbbbb
 456
-=======
-456
->>>>>>> br
-Git is free software.
+Git is not free software.
